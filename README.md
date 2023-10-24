@@ -1,2 +1,2 @@
 # My-Closet
-Mobile App for AR based Closet emulation, to come uo with combinations of outfits
+Mobile App for AR based Closet emulation, to come up with combinations of outfits
